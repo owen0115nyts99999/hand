@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bf36503f-94be-4912-aecc-ad7dd608a8bf/resourceGroups/owen0115nyts99999/providers/Microsoft.Web/sites/hand-head",
+    "appService.deploySubpath": ""
+}
